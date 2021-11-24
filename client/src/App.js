@@ -7,6 +7,8 @@ import {
   createHttpLink,
 } from '@apollo/client';
 import { setContext } from '@apollo/client/link/context';
+import {Provider} from 'react-redux'; 
+import store from './utils/store';
 
 import Home from './pages/Home';
 import Detail from './pages/Detail';
@@ -14,11 +16,9 @@ import NoMatch from './pages/NoMatch';
 import Login from './pages/Login';
 import Signup from './pages/Signup';
 import Nav from './components/Nav';
-import { StoreProvider } from './utils/GlobalState';
 import Success from './pages/Success';
 import OrderHistory from './pages/OrderHistory';
-import { Provider } from 'react-redux';
-import store from './utils/store';
+
 
 const httpLink = createHttpLink({
   uri: '/graphql',
