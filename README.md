@@ -23,10 +23,6 @@
 
 
 
-# Snapshot
-
-[![N/A]()]
-
 
 
 
@@ -77,9 +73,6 @@
 
 
 
-# Snapshot
-
-[![N/A]()]
 
 
 
@@ -87,7 +80,6 @@
 # Table of Contents 
 * [Summary](#Summary)
 * [Tools Used](#Tools)
-* [Snapshot](#Snapshot)
 * [Installation & Database SetUp](#Installation)
 * [Heroku](#Heroku)
 
