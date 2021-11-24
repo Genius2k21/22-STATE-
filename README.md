@@ -29,7 +29,6 @@
 # Table of Contents 
 * [Summary](#Summary)
 * [Tools Used](#Tools)
-* [Snapshot](#Snapshot)
 * [Installation & Database SetUp](#Installation)
 * [Heroku](#Heroku)
 
@@ -47,6 +46,7 @@
 
 # Heroku
 
+https://redux2k21.herokuapp.com/
 
 # Challenge-22-Redux-Store
 
